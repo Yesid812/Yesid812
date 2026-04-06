@@ -26,7 +26,7 @@ University of Cauca — Colombia
 
 ---
 
-## 🧠 My acknoledge
+## 🧠 My Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,cs,go" />
 </div>
@@ -46,10 +46,10 @@ University of Cauca — Colombia
 ---
 
 ## GitHub Stats
+<div align="center" gap="2px">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yesid812&theme=tokyonight)](https://git.io/streak-stats)
-
 ![Top Languages](https://vani-stats.vercel.app/api?username=Yesid812&theme=dark&max_langs=5)
-
+</di>
 
 ## 📫 Contact
 
