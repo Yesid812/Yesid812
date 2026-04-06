@@ -16,7 +16,6 @@ I'm a junior software engineer with a strong interest in fullstack development, 
 I enjoy building real-world solutions, learning new technologies, and continuously improving my engineering skills.
 
 Recently, I've been focusing more on **data analysis and data processing**, exploring how to extract insights and build systems that leverage data effectively.
-
 ---
 ## 🎓 Education
 
