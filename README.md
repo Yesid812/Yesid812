@@ -24,6 +24,8 @@ University of Cauca — Colombia
 
 ---
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesid812&theme=tokyo-night" />
+
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Languages
