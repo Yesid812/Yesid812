@@ -26,46 +26,27 @@ University of Cauca — Colombia
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesid812&theme=tokyo-night" />
-
 ## 🧠 Tech Stack
 
-### 👨‍💻 Languages
-- Java
-- C#
-- TypeScript / JavaScript
-- Python
-- Golang (basic)
+## 🧠 Lenguajes
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,go" />
+</div>
 
-### ⚙️ Backend
-- Spring Boot
-- NestJS
-- ASP.NET Core (.NET)
-- REST API design
+## ⚙️ Backend & Frameworks
+<div align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
+</div>
 
-### 🎨 Frontend
-- Angular
-- React / Next.js
-- HTML5 / CSS3
+## 📊 Data & IA
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</div>
 
-### 🗄️ Databases
-- SQL Server
-- PostgreSQL
-- MySQL
-- MongoDB
-
-### ☁️ DevOps & Tools
-- Git & GitHub
-- Docker
-- GitHub Actions
-- Jenkins (basic)
-- AWS (basic)
-- Linux
-
-### 🧪 Testing
-- JUnit / Mockito
-- Jest
-- Cypress
+## 🛠️ Herramientas
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</div>
 
 ---
 
