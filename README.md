@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3xgR6JaucMaXe/giphy.gif" width="600"/>
 </div>
 
-# 👋 Hi, I'm Yesid Obando
+# <p align="center">👋 Hi, I'm Yesid Obando</P>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero+de+Sistemas;AI+Developer;Backend+Developer;Siempre+aprendiendo&center=true&width=500&height=50">
