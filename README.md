@@ -26,36 +26,29 @@ University of Cauca — Colombia
 
 ---
 
-## 🧠 Lenguages
+## 🧠 My acknoledge
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,cs,go" />
 </div>
-
 ## ⚙️ Backend & Frameworks
 <div align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,spring,nestjs,tailwind,nextjs,angular,react" />
 </div>
-
-## 📊 Databases
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </div>
-
-## 📊 Data & IA
 <div align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </div>
-
-## 🛠️ Tools
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 </div>
 
 ---
 
-
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yesid812&theme=tokyonight)](https://git.io/streak-stats)
+
 ![Top Languages](https://vani-stats.vercel.app/api?username=Yesid812&theme=dark&max_langs=5)
 
 
@@ -64,6 +57,5 @@ University of Cauca — Colombia
 - ✉ Email: eyobando@unicauca.edu.co  
 
 ---
-
 ⭐ *Always learning, always building.*
 
