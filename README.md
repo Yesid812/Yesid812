@@ -28,12 +28,17 @@ University of Cauca — Colombia
 
 ## 🧠 Lenguages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,typescript,c++,go" />
+<img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,cs,go" />
 </div>
 
 ## ⚙️ Backend & Frameworks
 <div align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,spring,nestjs,tailwind,nextjs,angular,react" />
+</div>
+
+## 📊 Databases
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgrest,mongodb" />
 </div>
 
 ## 📊 Data & IA
@@ -43,7 +48,7 @@ University of Cauca — Colombia
 
 ## 🛠️ Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 </div>
 
 ---
