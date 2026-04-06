@@ -81,15 +81,11 @@ University of Cauca — Colombia
 
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yesid812&theme=tokyonight)](https://git.io/streak-stats)
-![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1&theme=dark&max_langs=5)
-
-## 🌎 Languages
-
-- Spanish: Native  
-- English: B2  
-- French: B1  
 
 ---
+
+![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1&theme=dark&max_langs=5)
+
 
 ## 📫 Contact
 
