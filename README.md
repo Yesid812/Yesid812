@@ -30,7 +30,6 @@ University of Cauca — Colombia
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,cs,go" />
 </div>
-## ⚙️ Backend & Frameworks
 <div align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,spring,nestjs,tailwind,nextjs,angular,react" />
 </div>
