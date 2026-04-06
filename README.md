@@ -38,7 +38,7 @@ University of Cauca — Colombia
 
 ## 📊 Databases
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgrest,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </div>
 
 ## 📊 Data & IA
