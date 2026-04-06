@@ -37,17 +37,7 @@ Recently, I've been focusing more on **data analysis and data processing**, expl
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesid812&theme=tokyo-night&hide_border=true" />
 </div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Yesid812&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Yesid812&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Yesid812&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yesid812&show_icons=true&theme=radical)
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Yesid812&theme=tokyonight&hide_border=true" />
 </div>
