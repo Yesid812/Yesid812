@@ -24,7 +24,6 @@ University of Cauca — Colombia
 📅 2021 – Present (Expected 2026)
 
 ---
-
 ## 🧠 My Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,cs,go" />
