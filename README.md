@@ -22,7 +22,6 @@ Recently, I've been focusing more on **data analysis and data processing**, expl
 **B.Sc. in Systems Engineering (In Progress)**  
 University of Cauca — Colombia  
 📅 2021 – Present (Expected 2026)
-
 ---
 ## 🧠 My Stack
 <div align="center">
