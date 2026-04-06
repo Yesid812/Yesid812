@@ -4,8 +4,9 @@
 
 # 👋 Hi, I'm Yesid Obando
 
-💻 Junior Software Engineer | Backend & Full-Stack Developer  
-📍 Popayán, Colombia  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero+de+Sistemas;AI+Developer;Backend+Developer;Siempre+aprendiendo&center=true&width=500&height=50">
+</p>
 
 ---
 
