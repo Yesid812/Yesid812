@@ -49,7 +49,7 @@ University of Cauca — Colombia
 <div align="center" gap="2px">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yesid812&theme=tokyonight)](https://git.io/streak-stats)
 ![Top Languages](https://vani-stats.vercel.app/api?username=Yesid812&theme=dark&max_langs=5)
-</di>
+</div>
 
 ## 📫 Contact
 
