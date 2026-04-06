@@ -4,10 +4,6 @@
 
 # <p align="center">👋 Hi, I'm Yesid Obando</P>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Engineer;Full-Stack+Developer;Data+Scientist+in+progress;Always+getting+better&center=true&width=500&height=50">
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -43,12 +39,6 @@ Recently, I've been focusing more on **data analysis and data processing**, expl
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesid812&theme=tokyo-night&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yesid812&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesid812&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Yesid812&theme=tokyonight&hide_border=true" />
