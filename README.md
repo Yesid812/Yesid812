@@ -12,16 +12,11 @@
 
 ## 🚀 About Me
 
-I'm a junior software engineer with a strong interest in fullstack development, scalable systems, and data-driven applications.  
+I'm a senior student of software engineering and a junior software engineer with a strong interest in fullstack development, scalable systems, and data-driven applications.  
 I enjoy building real-world solutions, learning new technologies, and continuously improving my engineering skills.
 
 Recently, I've been focusing more on **data analysis and data processing**, exploring how to extract insights and build systems that leverage data effectively.
----
-## 🎓 Education
 
-**B.Sc. in Systems Engineering (In Progress)**  
-University of Cauca — Colombia  
-📅 2021 – Present (Expected 2026)
 ---
 ## 🧠 My Stack
 <div align="center">
