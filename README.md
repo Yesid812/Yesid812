@@ -5,7 +5,7 @@
 # <p align="center">👋 Hi, I'm Yesid Obando</P>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Backend+Developer;Data+Scientist+in+progress;Always+getting+better&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Engineer;FullStack+Developer;Data+Scientist+in+progress;Always+getting+better&center=true&width=500&height=50">
 </p>
 
 ---
