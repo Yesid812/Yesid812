@@ -1,5 +1,7 @@
 ## Header
-<img src="https://giphy.com/embed/5fQyd7jM58m5y">
+<a href="https://giphy.com/gifs/pokemon-squirtle-squad-5fQyd7jM58m5y">
+  <img src="https://media.giphy.com/media/5fQyd7jM58m5y/giphy.gif" width="400"/>
+</a>
 # 👋 Hi, I'm Yesid Obando
 
 💻 Junior Software Engineer | Backend & Full-Stack Developer  
