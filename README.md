@@ -76,14 +76,6 @@ Recently, I've been focusing more on **data analysis and data processing**, expl
 University of Cauca — Colombia  
 📅 2021 – Present (Expected 2026)
 
----
-
-## 📜 Certifications
-
-- Cisco — Junior Cybersecurity Analyst  
-- Cisco — CCNA: Switching, Routing & Wireless Essentials  
-- Microsoft — SC-100 Cybersecurity Architect  
-- Platzi — Java Spring Course  
 
 ---
 
