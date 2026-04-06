@@ -28,24 +28,10 @@ University of Cauca — Colombia
 
 ## 🧠 Tech Stack
 
-## 🧠 Lenguajes
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,go" />
-</div>
 
-## ⚙️ Backend & Frameworks
-<div align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,js,go,dotnet,git,github,docker" />
 
-## 📊 Data & IA
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-</div>
-
-## 🛠️ Herramientas
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </div>
 
 ---
