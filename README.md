@@ -13,9 +13,6 @@ I enjoy building real-world solutions, learning new technologies, and continuous
 
 Recently, I've been focusing more on **data analysis and data processing**, exploring how to extract insights and build systems that leverage data effectively.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yesid812&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
 ---
 ## 🧠 My Stack
 <div align="center">
