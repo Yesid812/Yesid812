@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3xgR6JaucMaXef" width="400"/>
+  <img src="https://media.giphy.com/media/3xgR6JaucMaXef/giphy.gif" width="400"/>
 </div>
 
 # 👋 Hi, I'm Yesid Obando
