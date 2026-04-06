@@ -26,12 +26,24 @@ University of Cauca — Colombia
 
 ---
 
-## 🧠 Tech Stack
-
+## 🧠 Lenguages
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,typescript,c++,go" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,go,dotnet,git,github,docker" />
+## ⚙️ Backend & Frameworks
+<div align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,spring,nestjs,tailwind,nextjs,angular,react" />
+</div>
 
+## 📊 Data & IA
+<div align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</div>
+
+## 🛠️ Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws" />
 </div>
 
 ---
@@ -39,8 +51,6 @@ University of Cauca — Colombia
 
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yesid812&theme=tokyonight)](https://git.io/streak-stats)
-
----
 
 ![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1&theme=dark&max_langs=5)
 
