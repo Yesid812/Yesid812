@@ -17,6 +17,9 @@ I enjoy building real-world solutions, learning new technologies, and continuous
 
 Recently, I've been focusing more on **data analysis and data processing**, exploring how to extract insights and build systems that leverage data effectively.
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yesid812&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 ---
 ## 🧠 My Stack
 <div align="center">
@@ -38,8 +41,18 @@ Recently, I've been focusing more on **data analysis and data processing**, expl
 ---
 
 ## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yesid812&theme=tokyonight)](https://git.io/streak-stats)
-![Top Languages](https://vani-stats.vercel.app/api?username=Yesid812&theme=dark&max_langs=5)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesid812&theme=tokyo-night&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yesid812&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesid812&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Yesid812&theme=tokyonight&hide_border=true" />
+</div>
 
 ## 📫 Contact
 
